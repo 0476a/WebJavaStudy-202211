@@ -1,4 +1,4 @@
-# WebJavaStudy-202211
+# WebJavaStudy-20221126
 
 ### [📖기술블로그](https://donotthinkjustdo.tistory.com/category/JAVA/%EC%9B%B9%EA%B0%9C%EB%B0%9C%28%EC%9E%90%EB%B0%94%29)
 
